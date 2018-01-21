@@ -21,28 +21,28 @@ http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/ent
         {
             "id": "1",
             "title": "Very Important People",
-            "time": "81000",
+            "time": "84000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_0ywhyahw/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_1.jpg"
         },
         {
             "id": "2",
             "title": "Wired",
-            "time": "64000",
+            "time": "67000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_bse7sb83/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_2.jpg"
         },
         {
             "id": "3",
             "title": "Kitten",
-            "time": "63000",
+            "time": "66000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_xmrhw3lb/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_3.jpg"
         },
         {
             "id": "4",
             "title": "Bicycle",
-            "time": "62000",
+            "time": "66000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_hcmo3xj4/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_4.jpg"
         },
@@ -56,14 +56,14 @@ http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/ent
         {
             "id": "6",
             "title": "Brooch",
-            "time": "60000",
+            "time": "64000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_ku0s0cqw/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_6.jpg"
         },
         {
             "id": "7",
             "title": "Recipes",
-            "time": "57000",
+            "time": "60000",
             "url": "http://open.http.staging-k9.streamuk.com/p/3000021/sp/300002100/playManifest/entryId/0_1uga2std/format/applehttp/protocol/http/a.m3u8",
             "thumbnail": "http://www.followmemobile.com/videothumbs/thumb_7.jpg"
         }
